@@ -22,6 +22,8 @@ This is a Python-based Face Recognition Attendance System built using Flask, Ope
 - Haarcascade for face detection
 - pywin32 (for speech synthesis on Windows)
 
+<img width="947" height="479" alt="Capture" src="https://github.com/user-attachments/assets/f71153e4-9488-4b1a-9878-56e0d606b9c5" />
+<img width="746" height="695" alt="background" src="https://github.com/user-attachments/assets/edc96a93-9834-4215-aa67-211402721b74" />
   
 
 ## Usage:
